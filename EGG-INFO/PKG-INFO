@@ -2,9 +2,9 @@ Metadata-Version: 1.0
 Name: ZenPacks.GoVanguard.Support
 Version: 1.0.0
 Summary: Easily support Zenoss Environments
-Home-page: http://gvit.com
+Home-page: http://govanguard.com
 Author: Shane William Scott
-Author-email: sscott@gvit.com
+Author-email: sscott@govanguard.com
 License: Commercial
 Description: Easily support Zenoss Environments
 Platform: N/A
